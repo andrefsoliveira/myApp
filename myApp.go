@@ -10,6 +10,6 @@ func main() {
 
 	fmt.Println(sample.SumTwoNumbers(1, 1))
 
-	sample.CheckName("")
-	sample.CheckName("André")
+	fmt.Println(sample.CheckName(""))
+	fmt.Println(sample.CheckName("André"))
 }
