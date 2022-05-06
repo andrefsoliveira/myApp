@@ -1,3 +1,0 @@
-# github.com/andrefsoliveira/myApp/sampleModule v0.0.0-20220506151720-ae854e20d3f3
-## explicit; go 1.18
-github.com/andrefsoliveira/myApp/sampleModule
